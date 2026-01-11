@@ -14,4 +14,4 @@ A fast, multi-threaded command-line network port scanner written in Python.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Angtong-PortScanner.git](https://github.com/YOUR_USERNAME/Angtong-PortScanner.git)
+   scanner.py
